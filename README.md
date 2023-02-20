@@ -5,7 +5,7 @@
 [![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/BariscanBilgen) 
 
 # 📙 Course Structures
-There are 5 Courses in this Professional Certificate Specialization are as follows:
+The course I took from mr.alex and the sample projects I did. There are 5 Courses in this Professional Certificate Specialization are as follows:
 
  💹 Excel Course <br>
  💹 SQL Course <br>
