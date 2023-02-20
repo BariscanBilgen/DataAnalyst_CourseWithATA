@@ -24,19 +24,20 @@ The course I took from mr.alex and the sample projects I did. There are 5 Course
 
 ```
 2 -> Formulas in Excel -> Formula Excel Template.xlsx
-     Max/Min, If/Ifs, Len, Left/Right, Date To Text, Trim, Concatenate, Substitute, Sum/Sumif/Sumifs, Count/Countif/Countifs, 
-     Days/NetworkDays
+     Max/Min, If/Ifs, Len, Left/Right, Date To Text, Trim, Concatenate, Substitute, Sum/Sumif/Sumifs, 
+     Count/Countif/Countifs, Days/NetworkDays
 ```
 
 ```
 3 -> XLOOKUP in Excel -> XLOOKUP Excel Tutorial File.xlsx
-     XLOOKUP, XLOOKUP w Multiple Rows, XLOOKUP Exact Match, XLOOKUP Search Order, XLOOKUP Horizontal Search, XLOOKUP w SUM(), 
-     XLOOKUP vs VLOOKUP
+     XLOOKUP, XLOOKUP w Multiple Rows, XLOOKUP Exact Match, XLOOKUP Search Order, 
+     XLOOKUP Horizontal Search, XLOOKUP w SUM(), XLOOKUP vs VLOOKUP
 ```
 
 ```
 4 -> Conditional Formatting in Excel -> Conditional Formatting Excel Tutorial File.xlsx
-     Color Scales, Highlight Cells, Using a Formula, Troubleshooting, Changing the Format, Creating Rule, Editing a Rule
+     Color Scales, Highlight Cells, Using a Formula, Troubleshooting, Changing the Format, 
+     Creating Rule, Editing a Rule
 ```
 
 ```
@@ -46,14 +47,16 @@ The course I took from mr.alex and the sample projects I did. There are 5 Course
 
 ```
 6 -> Cleaning Data in Excel -> Data Cleaning Excel Tutorial.xlsx
-     Formatting Standardization, Additional Spaces, Duplicates, Removing Duplicates, Changing Column Names, Fixing Errors, 
-     Missing Spaces, Cureency, Dates, Identifying Issues, Paste as Value, Delete Column, Trim Data, Conclusion
+     Formatting Standardization, Additional Spaces, Duplicates, Removing Duplicates, Changing Column Names, 
+     Fixing Errors, Missing Spaces, Cureency, Dates, Identifying Issues, Paste as Value, Delete Column, 
+     Trim Data, Conclusion
 ```
 
 ```
 7 -> Full Project in Excel -> Excel Project.xlsx
-     Data, Data Overview, Remove Duplicates, Find and Replace, Currency, Age, Nested If, Value If False, Categories, 
-     Pivot Tables, Adding Charts, Working Sheet, Change Letter, Age Brackets, Building the Dashboard
+     Data, Data Overview, Remove Duplicates, Find and Replace, Currency, Age, Nested If, Value If False, 
+     Categories, Pivot Tables, Adding Charts, Working Sheet, Change Letter, Age Brackets, Building the 
+     Dashboard
 ```
 
 # 📊 Power BI Course
@@ -70,5 +73,6 @@ The course I took from mr.alex and the sample projects I did
 
 ```
 2 -> Apocolypse Food Prep - Power Query Editor Tutorial.xlsx and .bix
-     Power Query UI, Removing rows, Changing the Headars, Chaning Data Types, Reomving Rows with "x" values, Removing Columns, Pivoting/Unpivoting, Saving Transformation
+     Power Query UI, Removing rows, Changing the Headars, Chaning Data Types, Reomving Rows with "x" values, 
+     Removing Columns, Pivoting/Unpivoting, Saving Transformation
 ```
