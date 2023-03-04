@@ -32,6 +32,6 @@ The course I took from mr.alex and the sample projects I did
 
 ```
 3 -> Apocolypse Food Prep - Relationship Tutorial .xlsx and .pbix
-     0:30 Taking a look at the Data, Loading Data into Power BI, Auto-Generated Relationships, Cardinality, 
+     Taking a look at the Data, Loading Data into Power BI, Auto-Generated Relationships, Cardinality, 
      Cross Filter Direction, Making Relationship Active, Building Relationships from Scratch
 ```
