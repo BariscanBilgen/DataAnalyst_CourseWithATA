@@ -24,8 +24,14 @@ The course I took from mr.alex and the sample projects I did
      Apocolypse Food Prep excel file was edited with power query and visualized simply with power bi
 ```
 
+```
+2 -> Apocolypse Food Prep - Power Query Editor Tutorial.xlsx and .pbix
+     Power Query UI, Removing rows, Changing the Headars, Chaning Data Types, 
+     Reomving Rows with "x" values, Removing Columns, Pivoting/Unpivoting, Saving Transformation
+```
 
 ```
-2 -> Apocolypse Food Prep - Power Query Editor Tutorial.xlsx and .bix
-     Power Query UI, Removing rows, Changing the Headars, Chaning Data Types, Reomving Rows with "x" values, Removing Columns, Pivoting/Unpivoting, Saving Transformation
+3 -> Apocolypse Food Prep - Relationship Tutorial .xlsx and .pbix
+     0:30 Taking a look at the Data, Loading Data into Power BI, Auto-Generated Relationships, Cardinality, 
+     Cross Filter Direction, Making Relationship Active, Building Relationships from Scratch
 ```
