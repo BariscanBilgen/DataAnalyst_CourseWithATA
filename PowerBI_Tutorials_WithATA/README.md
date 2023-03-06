@@ -14,9 +14,7 @@ The course I took from mr.alex and the sample projects I did. There are 5 Course
  💹 Python Course <br>
 
 # 📊 Power BI Course
-The course I took from mr.alex and the sample projects I did
-
-![image](https://user-images.githubusercontent.com/91004987/216774379-29128155-4788-4b52-b245-4a9687ffc730.png)
+![image](https://user-images.githubusercontent.com/91004987/223233795-c2afac05-518c-4c0b-b4eb-95f7684ee77a.png)
 
 ```
 1 -> Apocolypse Food Prep .xlsx and .pbix
@@ -38,4 +36,29 @@ The course I took from mr.alex and the sample projects I did
 ```
 4 -> Apocolypse Food Prep - DAX Tutorial .xlsx and .pbix
      Looking at the Data, Creating a Measure, DAX - Count, DAX - SUM, SUM vs SUMx, DAX - Date Functions, DAX - If Statement
+```
+
+```
+5 -> Apocolypse Food Prep - Drill Down Tutorial .xlsx and .pbix
+     Drill down operations were performed on the box and other graphics
+```
+
+```
+6 -> Apocolypse Food Prep - Conditional Formatting Tutorial .xlsx and .pbix
+     Conditional Formatting operations were performed on tables, matrixes and other graphics.
+```
+
+```
+7 -> Apocolypse Food Prep - Bins Lists Tutorial .xlsx and .pbix
+     Bins Lists operations were performed on the charts
+```
+
+```
+8 -> Apocolypse Food Prep - Visualizations Tutorial .xlsx and .pbix
+     Popular visualizations made
+```
+
+```
+9 -> Power BI - Final Project .xlsx and .pbix
+     The data obtained as a result of the survey was cleaned with a power query. And visualizations were made for the questions.
 ```
