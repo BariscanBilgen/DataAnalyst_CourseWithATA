@@ -62,8 +62,6 @@ The course I took from mr.alex and the sample projects I did. There are 5 Course
 # 📊 Power BI Course
 ![image](https://user-images.githubusercontent.com/91004987/223233795-c2afac05-518c-4c0b-b4eb-95f7684ee77a.png)
 
-The course I took from mr.alex and the sample projects I did
-
 ```
 1 -> Apocolypse Food Prep .xlsx and .pbix
      Apocolypse Food Prep excel file was edited with power query and visualized simply with power bi
